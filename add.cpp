@@ -14,5 +14,9 @@ int main() {
         cout << b-a << "\n";
     }
 
+    // now for multiplication
+
+    cout << a * b << "\n";
+
     return 0;
 }
