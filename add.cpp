@@ -8,5 +8,11 @@ int main() {
 
     cout << a+b << "\n";
 
+    if(a-b > 0) {
+        cout << a-b << "\n";
+    } else {
+        cout << b-a << "\n";
+    }
+
     return 0;
 }
